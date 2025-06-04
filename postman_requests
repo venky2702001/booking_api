@@ -1,0 +1,3 @@
+classesurl:http://localhost:8000/classes/
+bookurl:http://localhost:8000/book/ sampledata:{"class_id": 1, "client_name": "John Doe", "client_email": "john@example.com"}
+bookingsurl:http://localhost:8000/bookings/?email=john@example.com
